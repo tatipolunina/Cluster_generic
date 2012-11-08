@@ -1,2 +1,1 @@
-Cluster_generic
-===============
+Generic Cluster set up
